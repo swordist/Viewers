@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.2-alpha.4](https://github.com/OHIF/Viewers/compare/@ohif/ui@1.9.2-alpha.3...@ohif/ui@1.9.2-alpha.4) (2021-04-07)
+
+**Note:** Version bump only for package @ohif/ui
+
+
+
+
+
 ## [1.9.2-alpha.3](https://github.com/OHIF/Viewers/compare/@ohif/ui@1.9.1...@ohif/ui@1.9.2-alpha.3) (2021-04-07)
 
 **Note:** Version bump only for package @ohif/ui

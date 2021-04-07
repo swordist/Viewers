@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.13.4-alpha.4](https://github.com/OHIF/Viewers/compare/@ohif/core@2.13.4-alpha.3...@ohif/core@2.13.4-alpha.4) (2021-04-07)
+
+**Note:** Version bump only for package @ohif/core
+
+
+
+
+
 ## [2.13.4-alpha.3](https://github.com/OHIF/Viewers/compare/@ohif/core@2.13.3...@ohif/core@2.13.4-alpha.3) (2021-04-07)
 
 **Note:** Version bump only for package @ohif/core
